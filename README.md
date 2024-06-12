@@ -26,6 +26,8 @@ Inglés técnico es una asignatura que no comparten todas las comunidades autón
 
 La programación didáctica es la misma para la mayoría de las comunidades por lo que esta documentación debería ser válida para casi todo el territorio español.
 Algunos de los documentos han sido validados y rectificados sobre el trabajo realizado por José Luis Comesaña sobre las unidades didácticas de 2011 (forked from [statickidz/TemarioDAW](https://github.com/statickidz/TemarioDAW)), ya que, lamentablemente, no ha habido muchos cambios desde entonces
+
 ---
-Si este repositorio te ha ayudado, espero que añadas una ⭐ a este repo!.
+Si este repositorio te ha ayudado, espero que añadas una ⭐ 
+
 ---
