@@ -1,33 +1,38 @@
-# DAM-ONLINE
-Temario y tareas Ciclo Formativo Grado Superior Desarrollo de Aplicaciones Multiplataforma (DAM) ONLINE
+# Temario y Recursos: Desarrollo de Aplicaciones Multiplataforma (DAM)
 
-## Contenido
-Se adjuntan  **en PDF**  las unidades didácticas del Ministerio de Educación de las asignaturas:
+Este repositorio es una colección de unidades didácticas y tareas para el Ciclo Formativo de Grado Superior de **Desarrollo de Aplicaciones Multiplataforma (DAM)**, con un enfoque en la modalidad online. El contenido está pensado para apoyar a estudiantes y formadores que buscan materiales de referencia basados en el currículo oficial.
 
-**1er curso**
-- [Bases de Datos (BD) ](./BD) - DAW Virgen del espino, Soria
-- [Inglés Técnico (IT) ](./IT)- BIRTLH
-- [Entornos de Desarrollo (ED) ](./ed)- DAW Virgen del espino, Soria
-- [Formación y orientación laboral (FOL) ](./FOL)- DAW Virgen del espino, Soria
-- [Lenguajes de Marcas y Sistemas de Gestión de Información (LMSGI) ](./LMSGI)- DAW Virgen del espino, Soria
-- [Programación (PROG) ](./PROG)- DAW Virgen del espino, Soria
-- [Sistemas informáticos (SI) ](./SI)- DAW Virgen del espino, Soria
+## Contenido del Repositorio
 
-**2º Curso**
-- [Acceso a datos (AD) ](./AD)- BIRTLH
-- [Desarrollo de Interfaces (DI) ](./DI)- BIRTLH
-- [Programación multimedia y dispositivos móviles (PMDM) ](./PMDM)- BIRTLH
-- [Programación de servicios y procesos (PSP) ](./PSP)- BIRTLH
-- [Sistemas de gestión empresarial (SGE) ](./SGE)- BIRTLH
-- [Empresa e iniciativa emprendedora (EIE) ](./EIE)- DAW Virgen del espino, Soria
+Los archivos, presentados en formato PDF, están organizados por cursos y asignaturas.
 
+### **1º Curso**
+* Bases de Datos (BD)
+* Inglés Técnico (IT)
+* Entornos de Desarrollo (ED)
+* Formación y Orientación Laboral (FOL)
+* Lenguajes de Marcas y Sistemas de Gestión de Información (LMSGI)
+* Programación (PROG)
+* Sistemas Informáticos (SI)
 
-Inglés técnico es una asignatura que no comparten todas las comunidades autónomas.
+### **2º Curso**
+* Acceso a Datos (AD)
+* Desarrollo de Interfaces (DI)
+* Programación Multimedia y Dispositivos Móviles (PMDM)
+* Programación de Servicios y Procesos (PSP)
+* Sistemas de Gestión Empresarial (SGE)
+* Empresa e Iniciativa Emprendedora (EIE)
 
-La programación didáctica es la misma para la mayoría de las comunidades por lo que esta documentación debería ser válida para casi todo el territorio español.
-Algunos de los documentos han sido validados y rectificados sobre el trabajo realizado por José Luis Comesaña sobre las unidades didácticas de 2011 (forked from [statickidz/TemarioDAW](https://github.com/statickidz/TemarioDAW)), ya que, lamentablemente, no ha habido muchos cambios desde entonces
+## Nota sobre el Temario
+
+La programación didáctica adjunta es la misma para la mayoría de las comunidades autónomas en España, lo que la hace válida para un amplio territorio. El contenido se ha validado y actualizado sobre la base de un trabajo original de José Luis Comesaña, respetando y reconociendo su contribución al campo.
+
+## Agradecimientos y Colaboración
+
+Si este repositorio te ha sido de utilidad, considera añadir una ⭐ para ayudar a otros estudiantes a encontrarlo.
 
 ---
-Si este repositorio te ha ayudado, espero que añadas una ⭐ 
 
----
+### Sobre el autor
+
+Para conocer más sobre mi trayectoria profesional y mis proyectos, puedes visitar mi [**CV online**](https://javierdiaz.com.es/).
